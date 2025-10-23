@@ -79,7 +79,8 @@ font-size: 22px;
 
 
 ## OUTPUT:
-![Uploading bookcover.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf28d1c3-e41e-4e26-8524-16a247b9bbe7" />
+
 
 
 ## RESULT:
